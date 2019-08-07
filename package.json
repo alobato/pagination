@@ -1,0 +1,30 @@
+{
+  "name": "@alobato/pagination",
+  "version": "1.0.0",
+  "description": "Pagination react component",
+  "main": "index.js",
+  "repository": "github:alobato/pagination",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "pagination"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/pagination/issues"
+  },
+  "homepage": "https://github.com/alobato/pagination#readme"
+}
